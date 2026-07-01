@@ -1,7 +1,7 @@
 void main() {
-  String? middleName; 
+  String? middleName;
   String city = 'Nakhon Sawan';
-  
+
   int middleNameLength = middleName?.length ?? 0;
   print('Middle name length: $middleNameLength');
 
